@@ -86,7 +86,6 @@ class ViewController: UIViewController {
         
         hiddenLb.isHidden = false
         
-        
     }
     
     private func newForm(){
